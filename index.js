@@ -1,5 +1,5 @@
 module.exports = function isArraySorted(array){
-  for(var i = 0; i < array.length, i++){
+  for(var i = 0; i < array.length; i++){
     var a = array[i];
     var b = array[i+1];
 
